@@ -1,2 +1,2 @@
-# Asynchronous-JavaScript
+# AsyncJavaScript
 Testing Asynchronous JavaScript
